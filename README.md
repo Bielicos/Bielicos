@@ -1,13 +1,9 @@
 
-<p style="font-size:32px; color:rgb(146, 207, 241); font-weigth: 400;">
-    <span style="font-weight: 700; font-style: italic;">Olá</span>, que bom te ver aqui (:
-</p>
+### Olá, que bom te ver aqui (:
 
 **`Desenvolvedor FullStack`**
 
-<p style="font-size:16px; color: rgb(146, 207, 241); font-weigth: 700;">
-    Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu utilizo e depois coloco em prática esse conhecimento em projetos que resolvam problemas reais. Gosto de ter o maior desempenho possível nos meus projetos, pois os vejo como um desafio.
-</p>
+Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu utilizo e depois coloco em prática esse conhecimento em projetos que resolvam problemas reais. Gosto de ter o maior desempenho possível nos meus projetos, pois os vejo como um desafio.
 
 ### 💻 Principais tecnologias que utilizo :
 <img 
