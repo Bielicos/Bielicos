@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu utilizo e depois coloco em prática esse conhecimento em projetos que resolvam problemas reais. Gosto de ter o maior desempenho possível nos meus projetos, pois os vejo como um desafio.
+Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu utilizo para depois colocar em prática esse conhecimento com projetos que resolvam problemas reais. Gosto de ter o maior desempenho possível nos meus projetos, pois os vejo como um desafio.
 
 ### 💻 Principais tecnologias que utilizo :
 <img 
