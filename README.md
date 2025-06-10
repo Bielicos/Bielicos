@@ -141,7 +141,7 @@ Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu u
 <br/>
 
 ### 📊 Estatísticas
-
+<div>
 <p>
   <img 
     align="left" 
@@ -157,3 +157,4 @@ Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu u
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielicos&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</div>
