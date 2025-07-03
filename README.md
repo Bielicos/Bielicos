@@ -3,7 +3,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu utilizo para depois colocar em prática esse conhecimento com projetos que resolvam problemas reais. Gosto de ter o maior desempenho possível nos meus projetos, pois os vejo como um desafio.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Educação Tecnológica do Rio de Janeiro. Atualmente estudo Java e SpringBoot.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 <h3 align="left">My Stack : </h3>
 <div>
@@ -176,23 +177,26 @@ Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu u
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=bielicos&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" 
-        alt="GitHub stats for bielicos" 
+        src="https://github-readme-stats.vercel.app/api?username=bielicos&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF&icon_color=1E90FF" 
+        alt="GitHub stats for bielicos (Azul)" 
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielicos&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&bg_color=000000&text_color=8B8B8B&border_radius=3&border_color=561760" 
-        alt="Top languages for bielicos" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielicos&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4&show_icons=true&title_color=1E90FF&bg_color=0D1B2A&text_color=A9D6E5&border_radius=5&border_color=1E90FF" 
+        alt="Top languages for bielicos (Azul)" 
       />
     </td>
   </tr>
 </table>
 
-
-
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bielicos/bielicos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bielicos/bielicos/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <!-- dark mode -->
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/bielicos/bielicos/output/github-contribution-grid-snake-dark.svg">
+  <!-- light mode / fallback -->
+  <img align="center"
+       alt="GitHub contribution grid snake animation (Azul)"
+       src="https://raw.githubusercontent.com/bielicos/bielicos/output/github-contribution-grid-snake.svg">
 </picture>
+
