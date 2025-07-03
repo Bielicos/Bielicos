@@ -5,7 +5,8 @@
 
 Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu utilizo para depois colocar em prática esse conhecimento com projetos que resolvam problemas reais. Gosto de ter o maior desempenho possível nos meus projetos, pois os vejo como um desafio.
 
-### 💻 Principais tecnologias que utilizo :
+<h3 align="left">My Stack : </h3>
+<div>
 <img 
     align="left" 
     alt="Intellij" 
@@ -126,8 +127,11 @@ Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu u
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br>
-### ☕ Atualmente estou estudando :
+
+</div>
+<br/>
+<h3 align="left">Atualmente estou estudando :</h3>
+<div>
 <img 
     align="left" 
     alt="Docker" 
@@ -160,6 +164,32 @@ Me chamo Gabriel, sempre busco estudar a documentação das tecnologias que eu u
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
 />
+
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=bielicos&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" 
+        alt="GitHub stats for bielicos" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielicos&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&bg_color=000000&text_color=8B8B8B&border_radius=3&border_color=561760" 
+        alt="Top languages for bielicos" 
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bielicos/bielicos/output/github-contribution-grid-snake-dark.svg">
