@@ -6,9 +6,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="center" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">My Stack : </h3>
+<h3 align="center">My Stack : </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="25" alt="IntelliJ logo" />
   <img width="8" />
