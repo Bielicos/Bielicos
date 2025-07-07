@@ -1,10 +1,7 @@
-<div style="display: flex; flex-direction: row;">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=1000&lines=Olá,+que+bom+te+ver+aqui+(:" alt="Typing greeting" />
 </p>
-  <div align="right"  height="100px">
-  <img  height="15px" src="https://viewscount.vercel.app/get/@bielicos" alt="contador de visitas no perfil" />
-</div>
   
 <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="470px" align="right">
 
