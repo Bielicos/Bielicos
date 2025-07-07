@@ -11,12 +11,9 @@
 <p align="left">
 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Educação Tecnológica do Rio de Janeiro.
   <br /> <br />
-Sempre em busca de evolução contínua, tanto técnica quanto pessoal.
-  <br /> <br />
 Estou constantemente atualizando meus conhecimentos e busco resolver problemas reais utilizando código e criatividade.
   <br /><br />
 Atualmente focado em me aprofundar em Hibernate, Spring Security
-<br />
 e boas práticas de arquitetura.
 <h3 align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
