@@ -50,19 +50,21 @@ e boas práticas de arquitetura.
 <table align="center">
   <tr>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=bielicos&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF&icon_color=1E90FF" 
-        alt="GitHub stats for bielicos (Azul)" 
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Bielicos&hide_title=true&show_icons=true&line_height=25&hide=issues&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF&icon_color=1E90FF"
+        alt="GitHub stats for Bielicos"
       />
     </td>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielicos&line_height=10&card_width=290&layout=compact&count_private=true&langs_count=4&show_icons=true&title_color=1E90FF&bg_color=0D1B2A&text_color=A9D6E5&border_radius=5&border_color=1E90FF" 
-        alt="Top languages for bielicos (Azul)" 
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Bielicos&layout=compact&langs_count=4&show_icons=true&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF"
+        alt="Top languages for Bielicos"
       />
     </td>
   </tr>
 </table>
+
+
 
 <picture align="center">
   <!-- dark mode -->
