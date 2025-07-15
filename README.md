@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=1000&lines=Olá,+que+bom+te+ver+aqui+(:" alt="Typing greeting" />
 </p>
   
-<img width="470" height="409" align="right" alt="Component 2" src="https://github.com/user-attachments/assets/9b2e999b-739c-482e-b5dc-5497359ced70" />
+<img width="470" height="409" align="right" alt="Component 2" src="https://github.com/user-attachments/assets/b34c7155-1764-4909-ac83-8fc57e5500c7" />
 
 <h3 align="center">
       Desenvolvedor Web Full Stack
