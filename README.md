@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=1000&lines=Olá,+que+bom+te+ver+aqui+(:" alt="Typing greeting" />
 </p>
   
-<img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="470px" align="right">
+<img width="470" height="487" align="right" alt="Component 2" src="https://github.com/user-attachments/assets/a2deec68-4bb2-482a-9033-ddfdddab328a" />
 
 <h3 align="center">
       Desenvolvedor Web Full Stack
@@ -14,8 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Educação T
   <br /> <br />
 Estou constantemente atualizando meus conhecimentos e busco resolver problemas reais utilizando código e criatividade.
   <br /><br />
-Atualmente focado em me aprofundar em Hibernate, Spring Security
-e boas práticas de arquitetura.
+Atualmente focado em me aprofundar em CI/CD, Docker, Gitlab e Kubernetes.
 <h3 align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
   My Stack :
