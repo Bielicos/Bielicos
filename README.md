@@ -30,6 +30,7 @@
 </p>
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
+  <img width="34" height="40" alt="parrote" src="https://github.com/user-attachments/assets/b4a90cc5-9d98-4816-ab6c-695420e7051a" />
   <strong style="font-size: 1.25rem;">My Stack :</strong>
 </p>
 <!-- Back‑end -->
