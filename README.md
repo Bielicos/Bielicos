@@ -1,18 +1,4 @@
-<table>
-      <tr>
-          <td>
-<h3 align="center">
-      Desenvolvedor Web Full Stack
-      <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
-    </h3>
-<p align="left">Cursando o segundo período de Análise e Desenvolvimento de Sistemas na [FAETERJ-RIO](https://www.faeterj-rio.edu.br/)
-  <br /> <br />
-Estou constantemente atualizando meus conhecimentos e busco resolver problemas reais utilizando código e criatividade.
-  <br /><br />
-Atualmente focado em me aprofundar em CI/CD, Docker, Gitlab e Kubernetes.
-            </td>
-            <td>
-              <table>
+<table align="right">
   <tr>
     <td>
       <img
@@ -30,7 +16,13 @@ Atualmente focado em me aprofundar em CI/CD, Docker, Gitlab e Kubernetes.
     </td>
   </tr>
 </table>
-            </td>
-        </tr>
-</table>
+      Desenvolvedor Web Full Stack
+      <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
+    
+<p align="left">Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="blank_">FAETERJ-RIO</a></p>
+  <br /> <br />
+Estou constantemente atualizando meus conhecimentos e busco resolver problemas reais utilizando código e criatividade.
+  <br /><br />
+Atualmente focado em me aprofundar em CI/CD, Docker, Gitlab e Kubernetes.
 
+            
