@@ -13,7 +13,9 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Bielicos&layout=compact&langs_count=4&show_icons=true&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF"
         alt="Top languages for Bielicos"
       />
+      <img src="https://media1.tenor.com/m/-5_fopRTBKYAAAAd/apollo-g-bird-african-grey.gif" width="166" height="139"/>
     </td>
+    
   </tr>
 </table>
 <p align="center">
@@ -52,4 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma logo" style="width:30px;height:30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo" style="width:30px;height:30px;" />
 </div>
-            
