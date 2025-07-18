@@ -16,18 +16,20 @@
     </td>
   </tr>
 </table>
-<div align="center">
+<p align="center">
       Desenvolvedor Web Full Stack
       <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
-</div>
-    
+</p>
+<p>
 🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="blank_">FAETERJ-RIO</a>
-  <br /><br />
+</p>
+<p>
 Atualmente focado em me aprofundar em CI/CD com Github Actions, Docker e Terraform.
-<h3 align="center">
+</p>
+<p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
   My Stack :
-</h3>
+</p>
 <!-- Back‑end -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ logo" style="width:30px;height:30px;" />
