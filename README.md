@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=1000&lines=Olá,+que+bom+te+ver+aqui+(:" alt="Typing greeting" />
-</p>
-  
 <img width="470" height="409" align="right" alt="Component 2" src="https://github.com/user-attachments/assets/b34c7155-1764-4909-ac83-8fc57e5500c7" />
 
 <h3 align="center">
@@ -41,37 +36,4 @@ Atualmente focado em me aprofundar em CI/CD, Docker, Gitlab e Kubernetes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma logo" style="width:30px;height:30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo" style="width:30px;height:30px;" />
 </div>
-
-
-<br/>
-<br/>
-
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Bielicos&hide_title=true&show_icons=true&line_height=25&hide=issues&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF&icon_color=1E90FF"
-        alt="GitHub stats for Bielicos"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Bielicos&layout=compact&langs_count=4&show_icons=true&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF"
-        alt="Top languages for Bielicos"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
-<picture align="center">
-  <!-- dark mode -->
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/bielicos/bielicos/output/github-contribution-grid-snake-dark.svg">
-  <!-- light mode / fallback -->
-  <img align="center"
-       alt="GitHub contribution grid snake animation (Azul)"
-       src="https://raw.githubusercontent.com/bielicos/bielicos/output/github-contribution-grid-snake.svg">
-</picture>
 
