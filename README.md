@@ -13,7 +13,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Bielicos&layout=compact&langs_count=4&show_icons=true&bg_color=0D1B2A&title_color=1E90FF&text_color=A9D6E5&border_radius=5&border_color=1E90FF"
         alt="Top languages for Bielicos"
       />
-      <img src="https://media1.tenor.com/m/YHfC-Y6Hw9cAAAAC/love-youuu-love-you-too.gif" width="166" height="139"/>
+      <img src="https://media1.tenor.com/m/eSUmc9xVdWAAAAAC/parrot.gif" width="166" height="139"/>
     </td>
     
   </tr>
