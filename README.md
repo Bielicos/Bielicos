@@ -17,8 +17,8 @@
   </tr>
 </table>
 <p align="center">
-      Desenvolvedor Web Full Stack
-      <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
+  <strong style="font-size: 1.25rem;">Desenvolvedor Web Full Stack</strong>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 </p>
 <p>
 🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="blank_">FAETERJ-RIO</a>
@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
-  My Stack :
+  <strong style="font-size: 1.25rem;">My Stack :</strong>
 </p>
 <!-- Back‑end -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
