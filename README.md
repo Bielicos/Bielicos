@@ -24,7 +24,7 @@
 🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="blank_">FAETERJ-RIO</a>
 </p>
 <p>
-Atualmente focado em me aprofundar em CI/CD com Github Actions, Docker e Terraform.
+✨ Atualmente focado em me aprofundar em CI/CD com Github Actions, Docker e Terraform.
 </p>
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
