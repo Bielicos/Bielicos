@@ -23,16 +23,13 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 </p>
 <p>
-<img width="25" height="19" alt="graduation" src="https://github.com/user-attachments/assets/7fcc4352-f47a-4127-a58b-9581fa6777b6" />
- Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="blank_">FAETERJ-RIO</a>
+🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="blank_">FAETERJ-RIO</a>
 </p>
 <p>
-<img width="30" height="20" alt="books" src="https://github.com/user-attachments/assets/507fac53-1c69-4c95-b4f0-5bf49a490be8" />
-Atualmente focado em me aprofundar em CI/CD com Github Actions, Docker e Terraform.
+🌟 Atualmente focado em me aprofundar em CI/CD com Github Actions, Docker e Terraform.
 </p>
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
-  <img width="34" height="40" alt="parrote" src="https://github.com/user-attachments/assets/b4a90cc5-9d98-4816-ab6c-695420e7051a" />
   <strong style="font-size: 1.25rem;">My Stack :</strong>
 </p>
 <!-- Back‑end -->
