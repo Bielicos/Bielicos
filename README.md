@@ -1,3 +1,4 @@
+<!-- Favorite o repositório e de like no post no linkedin se você gostou! (: -->
 <table align="right">
   <tr>
     <td>
