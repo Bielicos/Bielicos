@@ -23,7 +23,7 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 </p>
 <p>
-🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="blank_">FAETERJ-RIO</a>
+🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="_blank">FAETERJ-RIO</a>
 </p>
 <p>
 🌟 Atualmente focado em me aprofundar em CI/CD para deploy automático com Github Actions, Docker, AWS e Terraform.
