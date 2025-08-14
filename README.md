@@ -27,7 +27,7 @@
 🎓 Cursando o segundo período de Análise e Desenvolvimento de Sistemas na <a href="https://www.faeterj-rio.edu.br/" target="_blank">FAETERJ-RIO</a>
 </p>
 <p>
-🌟 Atualmente focado em me aprofundar em CI/CD para deploy automático com Github Actions, Docker, AWS e Terraform.
+🌟 Atualmente focado em me aprofundar em CI/CD com Github Actions, Kubernetes e serviços da AWS.
 </p>
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
@@ -42,6 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL logo" style="width:30px;height:30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" style="width:30px;height:30px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit logo" style="width:30px;height:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu logo" style="width:30px;height:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker logo" style="width:30px;height:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Docker logo" style="width:30px;height:30px;" />
+
 </div>
 
 <!-- Front‑end -->
