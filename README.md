@@ -20,7 +20,7 @@
   </tr>
 </table>
 <p align="center">
-  <strong style="font-size: 1.25rem;">Engenheiro de Software Java</strong>
+  <strong style="font-size: 1.25rem;">Engenheiro de Software</strong>
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 </p>
 <p>
